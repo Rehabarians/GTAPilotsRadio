@@ -1,0 +1,8 @@
+﻿<meta>
+  <script src="Radio.cs" type="server" lang="csharp" />
+ 
+  <script src="TakeoffandLanding.cs" type="server" lang="csharp" />
+  <script src="takeoffandlanding.js" type="client" lang="javascript" />
+  <script src="NavigationBeacons.js" type="client" lang="javascript" />
+
+</meta>
